@@ -1,0 +1,17 @@
+{
+    "name": "Delivery de Água",
+    "short_name": "Delivery de Água",
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#0000ff",
+    "icons": [
+        {
+            "src": "images/Assets.xcassets/AppIcon.appiconset/_/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "description": "Aplicativo para delivery de àgua mineral.",
+    "orientation": "portrait-primary"
+}
